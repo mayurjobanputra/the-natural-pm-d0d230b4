@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Toaster } from 'sonner';
-import { LandingPage } from '@/pages/LandingPage';
+import { LandingPage } from './pages/LandingPage';
 import './index.css';
 
 function App() {
